@@ -7,4 +7,6 @@ end
   end 
  ada  = Person.new 
  ada.talk 
- 
+ def walk 
+   puts "The Person is walking"
+   
