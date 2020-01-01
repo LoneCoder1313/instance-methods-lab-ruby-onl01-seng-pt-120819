@@ -1,7 +1,5 @@
 class Person
   
-end
- 
   def talk 
     puts "Hello World!"
   end 
@@ -10,4 +8,6 @@ end
  def walk 
    ada = Person.new
    puts "The Person is walking"
+ end 
+ end 
    
